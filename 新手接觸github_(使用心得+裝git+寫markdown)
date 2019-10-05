@@ -1,0 +1,19 @@
+# 關於github(待更新)
+
+
+# Markdown (.md檔案)
+## 目前常用語法:
+為了可以顯示，所以語法都加了''。
+* '> '
+> 這是'> '的效果
+* '* ' 點點標記，會縮排，可以搭配tab使用
+> * 這是點點
+* '[顯示文字]'+'(網址)'
+    > 輸入文字:''[我的github] (https://github.com/evaneversaydie/My_Study_Note)
+    >  效果 : [我的github](https://github.com/evaneversaydie/My_Study_Note)
+
+* 更多語法可以參考[這邊](https://ithelp.ithome.com.tw/articles/10203758)
+
+
+# 現在編輯[.md檔案]的方式:
+    >使用Atom:即時預覽所寫的md檔案。[超連結](https://www.itread01.com/content/1544422359.html)
