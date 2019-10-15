@@ -2,7 +2,7 @@
  嗨~歡迎您來到我的學習筆記! 這邊主要紀錄一些練習的程式碼。
 
  # 本週作業Homework & Project links
- * [HW_1: Quicks_Sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week4_QuickSort/Quick_Sort.ipynb)
+ * [HW_1: Quicks_Sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week4_QuickSort)
 
 
 # About ME
