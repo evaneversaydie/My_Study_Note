@@ -1,24 +1,33 @@
 # My_Study_Note
-> 嗨~歡迎您來到我的學習筆記!
-> 這邊主要紀錄一些練習的程式碼。
-、
-# 資料結構與演算法筆記:
-  *  [新手裝git、寫markdown的方法](https://github.com/evaneversaydie/My_Study_Note/blob/master/%E6%96%B0%E6%89%8B%E6%8E%A5%E8%A7%B8github_(%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97%2B%E8%A3%9Dgit%2B%E5%AF%ABmarkdown)
-  * [codesignal_練習](https://github.com/evaneversaydie/My_Study_Note/tree/master/leetcode)
-
-*演算法筆記:*
-   * [Week_1](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week1_Linked%20list.md):linked-list
-     *  [習題](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/707_Design%20Linked%20List.ipynb)LeetCode_707__Design Linked List
-
-*  [Week_2:Stack & Queq]()
-
-*  [Week_3:Quick_Sort]:()
-
-
+ 嗨~歡迎您來到我的學習筆記! 這邊主要紀錄一些練習的程式碼。
 # About ME
 * 姓名: Eva Lin
 * 目前就讀: 東吳大學 巨量資料管理學系
 * 目標: 學好程式語言以解決問題。
+
+資料結構與演算法筆記:
+====
+
+  * [codesignal_練習](https://github.com/evaneversaydie/My_Study_Note/tree/master/leetcode)
+
+Week_1
+---
+  *  [裝git、寫markdown的方法]('https://github.com/evaneversaydie/My_Study_Note/blob/master/%E6%96%B0%E6%89%8B%E6%8E%A5%E8%A7%B8github_(%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97%2B%E8%A3%9Dgit%2B%E5%AF%ABmarkdown')
+   * [Week_1:linked-list](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week1_Linked%20list.md):linked-list
+      *  [習題:LeetCode_707__Design Linked List]('https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/707_Design%20Linked%20List.ipynb')
+
+Week_2
+--
+[Week_2:Stack & Queq]()
+
+Week_3
+--
+*  [Week_3:Quick_Sort]:()
+
+Week_4
+* [HW_1]('https://github.com/evaneversaydie/My_Study_Note/tree/master/Week4_QuickSort'):Quicks_Sort實作
+--
+
 
 ### Homework & Project links
 
