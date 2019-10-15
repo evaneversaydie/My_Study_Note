@@ -23,7 +23,7 @@ Week_1
 
 Week_2
 --
-* [Stack & Queue]('')
+* [Stack & Queue]('https://github.com/evaneversaydie/My_Study_Note/tree/master/Week2_Stack%26Queue/week2_Stack&Queue.md')
   - [ ] leetcode155
   - [ ] leetcode232
 
