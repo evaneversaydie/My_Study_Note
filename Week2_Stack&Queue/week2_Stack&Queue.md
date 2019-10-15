@@ -1,6 +1,7 @@
 Stack &Queue
 ===
-![課堂簡報](/1.jpg)
+!['1'](1.jpg)
+
 >圖片來源: [課堂簡報]('https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.g5ff860a9a8_0_5')
 
 依照圖片，`Stack`是一種*後進先出*的資料結構。
