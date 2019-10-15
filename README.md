@@ -12,13 +12,13 @@
 
 Week_1
 ---
-*  [裝git、寫markdown的方法]('https://github.com/evaneversaydie/My_Study_Note/blob/master/%E6%96%B0%E6%89%8B%E6%8E%A5%E8%A7%B8github_(%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97%2B%E8%A3%9Dgit%2B%E5%AF%ABmarkdown')
+*  [裝git+寫markdown]('https://github.com/evaneversaydie/My_Study_Note/blob/master/Week1_Linked%20list/%E6%8E%A5%E8%A7%B8github(%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97%2B%E8%A3%9Dgit%2B%E5%AF%ABmarkdown')
 * [linked-list]('https://github.com/evaneversaydie/My_Study_Note/blob/master/Week1_Linked%20list.md)
 *  [習題:LeetCode_707__Design Linked List]('https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/707_Design%20Linked%20List.ipynb')
 
 Week_2
 --
-* [Stack & Queq:]('')
+* [Stack & Queue:]('')
  - [ ] leetcode()
  - [ ] leetcode()
 
