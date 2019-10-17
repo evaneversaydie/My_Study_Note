@@ -7,6 +7,11 @@
 - [ ] [要研究的]什麼是flork.....等功能
 - [ ] tag功能是什麼
 
+如何確認`.ipynb`檔案的情形?
+---
+ 1.上傳檔案至GITHUB，並複製檔案網址。
+ 2.使用[nbviewer](https://nbviewer.jupyter.org/')，在網頁內貼上自己的.ipynobook網址，即可快速閱讀自己的檔案預覽情形。
+
 Markdown (.md檔案)
 ==
 ## 目前常用語法:
