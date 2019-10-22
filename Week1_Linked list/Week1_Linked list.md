@@ -38,3 +38,14 @@ linked list(單向鏈結)是一種一元樹。
 
 * 文章:
 [What’s a Linked List, Anyway?](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+什麼是QUICKSORT
+想法
+測試流程
+流程圖
+sample code 怎麼用他的packae
+補充說明
+代辦事項
+把軌跡留清楚
+釐清你怎麼學習的
+每天做一點事
+外務(安排)

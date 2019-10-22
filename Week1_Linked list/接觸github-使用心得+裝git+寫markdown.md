@@ -10,7 +10,9 @@
 如何確認`.ipynb`檔案的情形?
 ---
  1.上傳檔案至GITHUB，並複製檔案網址。
- 2.使用[nbviewer](https://nbviewer.jupyter.org/')，在網頁內貼上自己的.ipynobook網址，即可快速閱讀自己的檔案預覽情形。
+ 2.使用[nbviewer](https://nbviewer.jupyter.org/')，在網頁內貼上自己的.ipynobook網址，即可快速閱讀自己的檔案預覽情型。
+ [更多參考:在部落格引用ipynb程式碼](https://medium.com/@kabuto412rock/%E5%B0%87jupyter-notebook%E8%A4%87%E8%A3%BD%E5%88%B0gist%E4%B8%8A-20412d126f07)
+
 
 Markdown (.md檔案)
 ==
