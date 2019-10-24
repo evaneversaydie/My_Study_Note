@@ -37,5 +37,12 @@ Week_4
 --
 * [HW_1: Quicks_Sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week4_QuickSort/Quick_Sort.ipynb)
 
+- [ ] two pointer
+
+Week_5
+--
+
+Week6
+--
 
 # 學習的網站
