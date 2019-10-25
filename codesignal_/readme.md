@@ -1,10 +1,9 @@
-Codesignal
-==
+# Codesignal
+[toc]
+
+
 這裡是我用`python3`解[codesignal](https://app.codesignal.com/)的練習程式碼與學習歷程。
 
-目錄
-==
-[toc]
 
 ## 01
  Write a function that returns the sum of two numbers.
