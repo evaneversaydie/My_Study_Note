@@ -1,9 +1,9 @@
 # Codesignal
-[toc]
 
+[TOC]
 
+### About:
 這裡是我用`python3`解[codesignal](https://app.codesignal.com/)的練習程式碼與學習歷程。
-
 
 ## 01
  Write a function that returns the sum of two numbers.
@@ -19,7 +19,7 @@ the output should be add(param1, param2) = 3.
 * 心得:return 之功能:
 return 有【退出函式】的功能，執行到return(後面沒有回傳值再python 是允許的，默認傳回None)
 
-[📔](#目錄)
+[📔](#Codesignal)
 
 ## 02
                 def centuryFromYear(year):
@@ -32,7 +32,7 @@ return 有【退出函式】的功能，執行到return(後面沒有回傳值再
  * % :餘數
  * //:整除的商(一定是int)
 
-[📔](#目錄)
+[📔](#Codesignal)
 
 ## 03
                 def checkPalindrome(inputString):
@@ -44,7 +44,7 @@ return 有【退出函式】的功能，執行到return(後面沒有回傳值再
 2.內建reserve()只適用於list。
 palindrome:可以回文的字句。
 
-[📔](#目錄)
+[📔](#Codesignal)
 
 ## 04
                 def adjacentElementsProduct(inputArray):
