@@ -1,4 +1,13 @@
 # Codesignal
+<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+- [Codesignal](#codesignal)
+        - [About:](#about)
+    - [01](#01)
+    - [02](#02)
+    - [03](#03)
+    - [04](#04)
+<!-- TOC END -->
+
 
 [TOC]
 
@@ -14,7 +23,7 @@ the output should be add(param1, param2) = 3.
 
 
     def add(param1, param2):
-        return param1+param2
+        return param1+param 2
 
 * 心得:return 之功能:
 return 有【退出函式】的功能，執行到return(後面沒有回傳值再python 是允許的，默認傳回None)
@@ -47,13 +56,17 @@ palindrome:可以回文的字句。
 [📔](#Codesignal)
 
 ## 04
-                def adjacentElementsProduct(inputArray):
-                    res=[]
-                    for i in range(len(inputArray)-1):
-                        res.append(inputArray[i]*inputArray[i+1])
-                        return max(res)
+回傳list中，相鄰的兩個元素之積的最大值。
+
+    def adjacentElementsProduct(inputArray):
+        res=[]
+        for i in range(len(inputArray)-1):
+            res.append(inputArray[i]*inputArray[i+1])
+        return max(res)
+
+
 
 
 ## 05
-
+- [ ] 可以使用sort
 ## 06
