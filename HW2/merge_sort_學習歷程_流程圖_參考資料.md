@@ -29,7 +29,7 @@ Merage Sort是一種用分治法(大問題=>小問題=>解決小問題後就可�
 
 
 # 流程圖:
-![Mergesort](Mergesort.jpg)
+![Mergesort](MergeSort.jpg)
 
 # 學習歷程
 
