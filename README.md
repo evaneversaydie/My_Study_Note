@@ -27,12 +27,23 @@
 
 # 資料結構與演算法筆記:
 
-  * [codesignal_練習](https://github.com/evaneversaydie/My_Study_Note/tree/master/leetcode)
+## ALL HOMEWORK
+|INDEX|DESCRIPRTION|  |
+|:----:|------------|--|
+|1|[Quick_Sort實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW1)|🙌|
+|2|[Marage_sort && Heap_Sort](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW2)|🙌|
+|3|[Search Binary Tree](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW3)|✍|
+||||
+|practice|[codesignal_練習](https://github.com/evaneversaydie/My_Study_Note/tree/master/leetcode)|✍|
+|practice|[leetcode](https://github.com/evaneversaydie/My_Study_Note/tree/master/leetcode)|✍|
 
 ## Week_1: github,markdown,linked_list
 *  [裝git+寫markdown](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week1_Linked%20list/%E6%8E%A5%E8%A7%B8github-%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97%2B%E8%A3%9Dgit%2B%E5%AF%ABmarkdown.md)
 * [linked-list](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week1_Linked%20list/Week1_Linked%20list.md)
 *  [LeetCode | 707__Design Linked List](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/707_Design%20Linked%20List.ipynb)
+
+-[📃](#my_study_note)
+
 
 ## Week_2: Stack & Queue
 
@@ -41,14 +52,13 @@
   - [ ] leetcode232
 
 
-##　Week_3: Insertion Sort
+## Week_3: Insertion Sort
 
 *  [Insertion Sort]
 
 
 ## Week_4: Quicks_Sort
 * [HW_1: Quicks_Sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week4_QuickSort/Quick_Sort.ipynb)
-* [Hw_1實作網頁版]
 
 - [ ] two pointer
 
