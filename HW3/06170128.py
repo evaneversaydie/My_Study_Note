@@ -19,24 +19,28 @@ class Solution(object):
         :type val: int
         :rtype: TreeNode(inserted node)
         """
+
         if root.val != None:
             if val <= root.val:
                 if root.left == None:  # 左邊空的，值<=跟
                     root.left = TreeNode(val)
                     return root.left
                 else:
-                    self = root.left
-                    insert(root, val)
+                    # root = root.left
+                    return self.insert(root.left, val)
             elif val > root.val:
                 if root.right == None:
                     root.right = TreeNode(val)
                     return root.right
                 else:
-                    self = root.right
+                    ##root = root.right
                     ##self
-                    insert(root, val)
+                    return self.insert(root.right,val)
         else:
-            root.val = TreeNode(val)
+            root.val = val
+            return root
+
+
 
     def delete(self, root, target):
         """
@@ -64,9 +68,9 @@ class Solution(object):
 # %%
 
 a = Solution()
-a.insert(TreeNode(7), 3)
-a.insert(TreeNode(7), 10)
-a.insert(TreeNode(7), 2)
-a.insert(TreeNode(7), 15)
-a.insert(TreeNode(7), 13)
-
+bst = TreeNode(7)
+a.insert(bst, 3)
+a.insert(bst, 10)
+a.insert(bst, 2)
+a.insert(bst, 15)
+a.insert(bst, 13)
