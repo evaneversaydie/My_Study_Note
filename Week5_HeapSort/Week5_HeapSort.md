@@ -15,6 +15,3 @@ binary tree是一種Heapsort
 
 ## 補充連結
 * 會寫程式的鑑賞等級
-
-
-#
