@@ -1,7 +1,7 @@
 Linked list
 ===
-什麼是liked list?
---
+
+## 什麼是liked list?
 linked list(單向鏈結)是一種一元樹。
 使用`node`來紀錄資料，每個`node`包含:
  * `Data`:可以是任何型態的資料，練習中以整數為例。
@@ -15,11 +15,11 @@ linked list(單向鏈結)是一種一元樹。
 
 
 
-#linked list 應用
+### linked list 應用
 * 區塊鍊(無法得知上一個節點的資料)
 
 
-# 設計linked list的想法:
+### 設計linked list的想法:
 1.linked list 的一開始(或是變數名稱)我們可以稱為`header`.next()是下一個位置,.value()是值。
 2.預設header是pointer和value是null，一遇到null linked list就結束。
 
