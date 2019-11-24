@@ -10,6 +10,7 @@
   - [如何確認github上`.ipynb`檔案的情形?](#如何確認github上ipynb檔案的情形)
   - [怎麼寫好的read.me](#怎麼寫好的readme)
   - [怎麼使用建立目錄頁?](#怎麼使用建立目錄頁)
+  - [gitignore教學](#gitignore教學)
 <!-- TOC END -->
 
 
@@ -82,3 +83,6 @@
 
 ### 怎麼使用建立目錄頁?
 * 運行ㄌㄜˊ在atom裡，可以安裝TOC相關套件。
+
+
+###[gitignore教學](https://www.youtube.com/watch?v=3FRIGBbsuxA)
