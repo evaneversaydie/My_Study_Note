@@ -7,10 +7,10 @@
   - [目前常用語法:](#目前常用語法)
   - [現在編輯[.md檔案]的方式:](#現在編輯md檔案的方式)
 - [關於github使用的大小事:](#關於github使用的大小事)
-  - [如何確認github上`.ipynb`檔案的情形?](#如何確認github上ipynb檔案的情形)
-  - [怎麼寫好的read.me](#怎麼寫好的readme)
-  - [怎麼使用建立目錄頁?](#怎麼使用建立目錄頁)
-  - [gitignore教學](#gitignore教學)
+  - [✍如何確認github上`.ipynb`檔案的情形?](#如何確認github上ipynb檔案的情形)
+  - [✍怎麼寫好的read.me](#怎麼寫好的readme)
+  - [✍怎麼使用建立目錄頁?](#怎麼使用建立目錄頁)
+  - [✍gitignore教學](#gitignore教學)
 <!-- TOC END -->
 
 
@@ -73,16 +73,19 @@
 
 
 # 關於github使用的大小事:
-### 如何確認github上`.ipynb`檔案的情形?
+### ✍如何確認github上`.ipynb`檔案的情形?
  * 上傳檔案至GITHUB，並複製檔案網址。
  * 使用[nbviewer](https://nbviewer.jupyter.org/')，在網頁內貼上自己的.ipynobook網址，即可快速閱讀自己的檔案預覽情型。
- [更多參考:在部落格引用ipynb程式碼](https://medium.com/@kabuto412rock/%E5%B0%87jupyter-notebook%E8%A4%87%E8%A3%BD%E5%88%B0gist%E4%B8%8A-20412d126f07)
+<br> [更多參考:在部落格引用ipynb程式碼](https://medium.com/@kabuto412rock/%E5%B0%87jupyter-notebook%E8%A4%87%E8%A3%BD%E5%88%B0gist%E4%B8%8A-20412d126f07)
 
-### 怎麼寫好的read.me
-
-
-### 怎麼使用建立目錄頁?
-* 運行ㄌㄜˊ在atom裡，可以安裝TOC相關套件。
+### ✍怎麼寫好的read.me
 
 
-###[gitignore教學](https://www.youtube.com/watch?v=3FRIGBbsuxA)
+### ✍怎麼使用建立目錄頁?
+* 在atom裡，可以安裝TOC相關套件。(如:Markdown TOC Auto:Insert TOC)
+* 可以使用`ctrl`+`shft`+`M`，呼叫搜尋列輸入TOC使用。
+* 必須使用`#`符號的地方才會在目錄上。
+
+### ✍[gitignore教學](https://www.youtube.com/watch?v=3FRIGBbsuxA)
+* 可以指定不想被track的檔案。
+* 如`.ipynb_checkpoints`、`.idea`檔。

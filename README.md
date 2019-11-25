@@ -4,13 +4,19 @@
 - [My_Study_Note](#my_study_note)
 - [About ME](#about-me)
 - [資料結構與演算法筆記:](#資料結構與演算法筆記)
+  - [ALL HOMEWORK](#all-homework)
   - [Week_1: github,markdown,linked_list](#week_1-githubmarkdownlinked_list)
   - [Week_2: Stack & Queue](#week_2-stack--queue)
   - [Week_3: Insertion Sort](#week_3-insertion-sort)
   - [Week_4: Quicks_Sort](#week_4-quicks_sort)
   - [Week_5: heap_sort](#week_5-heap_sort)
   - [Week_6: marage_sort](#week_6-marage_sort)
+  - [Week_7: Binary Tree](#week_7-binary-tree)
+  - [Week_8: Binary Search Tree](#week_8-binary-search-tree)
+  - [Week_9: Red Black Tree](#week_9-red-black-tree)
+  - [Week_10: Hash Table](#week_10-hash-table)
 - [學習的網站](#學習的網站)
+    - [helper:](#helper)
 <!-- TOC END -->
 
 
@@ -32,7 +38,8 @@
 |:----:|------------|--|
 |1|[Quick_Sort實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW1)|🙌|
 |2|[Marage_sort && Heap_Sort](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW2)|🙌|
-|3|[Search Binary Tree](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW3)|✍|
+|3|[Search Binary Tree](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW3)|🙌|
+|4|[Hash Table +MD5](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW4)|✍|
 ||||
 |practice|[codesignal_練習](https://github.com/evaneversaydie/My_Study_Note/tree/master/leetcode)|✍|
 |practice|[leetcode](https://github.com/evaneversaydie/My_Study_Note/tree/master/leetcode)|✍|
@@ -67,4 +74,13 @@
 
 ## Week_6: marage_sort
 
+## Week_7: Binary Tree
+
+## Week_8: Binary Search Tree
+
+## Week_9: Red Black Tree
+
+## Week_10: Hash Table
+
 # 學習的網站
+### helper:
