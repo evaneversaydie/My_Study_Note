@@ -1,11 +1,21 @@
 # 232. Implement Queue using Stacks
-[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+- [232. Implement Queue using Stacks](#232-implement-queue-using-stacks)
+- [解法](#解法)
+- [結果](#結果)
+<!-- TOC END -->
+
+
+# [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
 Implement the following operations of a queue using stacks.
 
 - push(x) -- Push element x to the back of queue.
 - pop() -- Removes the element from in front of queue.
 - peek() -- Get the front element.
 - empty() -- Return whether the queue is empty.
+
+# 解法
 
 ```Python
 class MyQueue:
