@@ -1,7 +1,6 @@
 # Hash table
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
 - [Hash table](#hash-table)
-- [刷題實作](#刷題實作)
 - [參考資料](#參考資料)
 <!-- TOC END -->
 
@@ -93,3 +92,4 @@ class MyHashSet:
 - [維基百科](https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)
 - [用 JavaScript 學習資料結構和演算法：字典（Dictionary）和雜湊表（Hash Table）篇](https://blog.kdchang.cc/2016/09/23/javascript-data-structure-algorithm-dictionary-hash-table/)
 - [雜湊函式](https://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B8)
+- [自己作業](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW4/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_Hash%20Table%E8%AA%AA%E6%98%8E_Hash%20Function%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E_%E6%B5%81%E7%A8%8B%E5%9C%96.ipynb)
