@@ -4,7 +4,7 @@
 - [My_Study_Note](#my_study_note)
 - [About ME](#about-me)
 - [資料結構與演算法筆記:](#資料結構與演算法筆記)
-  - [ALL HOMEWORK](#all-homework)
+    - [ALL HOMEWORK](#all-homework)
   - [Week_1: github,markdown,linked_list](#week_1-githubmarkdownlinked_list)
   - [Week_2: Stack & Queue](#week_2-stack--queue)
   - [Week_3: Insertion Sort](#week_3-insertion-sort)
@@ -20,6 +20,7 @@
   - [Week_14:](#week_14)
 - [學習的網站](#學習的網站)
     - [helper:](#helper)
+- [未來會繼續更新或是想到可以放入的內容](#未來會繼續更新或是想到可以放入的內容)
 <!-- TOC END -->
 
 
@@ -36,13 +37,14 @@
 
 # 資料結構與演算法筆記:
 
-## ALL HOMEWORK
+### ALL HOMEWORK
 |INDEX|DESCRIPRTION|  |
 |:----:|------------|--|
 |1|[Quick_Sort實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW1)|🙌|
 |2|[Marage_sort && Heap_Sort](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW2)|🙌|
 |3|[Search Binary Tree](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW3)|🙌|
-|4|[Hash Table +MD5](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW4)|✍|
+|4|[Hash Table +MD5](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW4)|🙌|
+|5|[](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW5)|✍|
 ||||
 |practice|[codesignal_練習](https://github.com/evaneversaydie/My_Study_Note/tree/master/leetcode)|✍|
 |practice|[leetcode](https://github.com/evaneversaydie/My_Study_Note/tree/master/leetcode)|✍|
@@ -75,30 +77,45 @@
 - [ ] two pointer
 
 ## Week_5: heap_sort
-- [Heap_Sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/heap_sort_06170128.py)
+- [HW_2:Heap_Sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/heap_sort_06170128.py)
 - [Heap_Sort實作歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/heap_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)
 ## Week_6: marage_sort
-- [Marage_sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_06170128.py)
+- [HW2:Marage_sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_06170128.py)
 - [Marage_sort學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)
 
 ## Week_7: Binary Tree
+-[📃](#my_study_note)
 
 ## Week_9: Binary Search Tree
-- [BST實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/binary_search_tree_06170128.py)
+- [HW3:BST實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/binary_search_tree_06170128.py)
 - [BST學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/My_Study.ipynb)
+-[📃](#my_study_note)
+
 ## Week_10: Red Black Tree
+-[📃](#my_study_note)
 
 ## Week_11: Hash Table
-- [Hash table]()
+- [HW4:Hash table]()
 - [實作]()
 - [leetcode練習](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/705.%20Design%20HashSet.md)
 
 ## Week_12:Breadth-First Search
+-[📃](#my_study_note)
 
 ## Week_13:Depth-First Search
+-[📃](#my_study_note)
 
 ## Week_14:
-
+-[📃](#my_study_note)
 
 # 學習的網站
 ### helper:
+
+# 未來會繼續更新或是想到可以放入的內容
+  * 作業
+  * 演算法筆記
+  * CS50筆記
+  * GitHub_Git使用札記(目前放在week1)
+  * Python語法複習(目前寫在codesignal裡面)
+  * 覺得好用的方法
+  * leetcode和codesignal
