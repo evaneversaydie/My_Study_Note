@@ -82,6 +82,8 @@
 ## Week_6: marage_sort
 - [HW2:Marage_sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_06170128.py)
 - [Marage_sort學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)
+\
+-[📃](#my_study_note)
 
 ## Week_7: Binary Tree
 -[📃](#my_study_note)
@@ -89,15 +91,21 @@
 ## Week_9: Binary Search Tree
 - [HW3:BST實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/binary_search_tree_06170128.py)
 - [BST學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/My_Study.ipynb)
+
 -[📃](#my_study_note)
 
 ## Week_10: Red Black Tree
+
 -[📃](#my_study_note)
 
 ## Week_11: Hash Table
 - [HW4:Hash table]()
 - [實作]()
-- [leetcode練習](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/705.%20Design%20HashSet.md)
+- leetcode練習
+    - [Hash Table]((https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/705.%20Design%20HashSet.md))
+    - 新增linked llist 相關 leetcoed
+
+-[📃](#my_study_note)
 
 ## Week_12:Breadth-First Search
 -[📃](#my_study_note)
