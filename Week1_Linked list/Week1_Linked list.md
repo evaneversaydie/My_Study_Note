@@ -20,14 +20,18 @@ linked list(單向鏈結)是一種一元樹。
 
 
 ### 設計linked list的想法:
-1.linked list 的一開始(或是變數名稱)我們可以稱為`header`.next()是下一個位置,.value()是值。
-2.預設header是pointer和value是null，一遇到null linked list就結束。
-
-- [ ] 程式碼還有沒有想明白的地方。
+1. linked list 的一開始(或是變數名稱)我們可以稱為`header`.next()是下一個位置,.value()是值。
+2. 預設header是pointer和value是null，一遇到null linked list就結束。
 
 
+# 練習題目
+### [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+### []
+### []
+### [leetcode_707]('https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/707_Design%20Linked%20List.ipynb')(程式碼)
 
-練習題目:[leetcode_707]('https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/707_Design%20Linked%20List.ipynb')(程式碼)
+
+
 參考資料與其他學習資源:
 --
 * [蔡芸琤老師_資料結構與演算法課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -38,6 +42,7 @@ linked list(單向鏈結)是一種一元樹。
 
 * 文章:
 [What’s a Linked List, Anyway?](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+
 什麼是QUICKSORT
 想法
 測試流程

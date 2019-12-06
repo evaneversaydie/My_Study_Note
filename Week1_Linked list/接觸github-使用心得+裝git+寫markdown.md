@@ -49,6 +49,19 @@
        `這是框起來的字`
      效果:
      `這是框起來的字`
+* 套用程式碼風格:
+```
+ #```Python
+ #程式碼
+ #```
+```
+效果:
+```Python
+這裡是顯示的效果:
+def a(code):
+     return code
+ ```
+
 
 * 更多語法可以參考:
  * [Hackmd快速入門](https://hackmd.io/s/quick-start-tw)
@@ -64,6 +77,13 @@
  * [用ATOM寫MD檔_推薦的套件](https://www.itread01.com/content/1544422359.html)
 
 * 使用[Hackmd](https://hackmd.io/)網站編譯。
+##### 關於圖檔使用
+* 上傳至github，並使用引用圖片檔的語法
+```
+![若圖片無法正常顯示時顯示的文字](圖片連結)
+```
+
+* [Hackmd](https://hackmd.io/)拖曳圖檔直接把檔案上傳是網路免費空間
 
 
 
@@ -74,7 +94,7 @@
 
 # 關於github使用的大小事:
 ### ✍如何確認github上`.ipynb`檔案的情形?
- * 上傳檔案至GITHUB，並複製檔案網址。
+ * 上傳檔案至github，並複製檔案網址。
  * 使用[nbviewer](https://nbviewer.jupyter.org/')，在網頁內貼上自己的.ipynobook網址，即可快速閱讀自己的檔案預覽情型。
 <br> [更多參考:在部落格引用ipynb程式碼](https://medium.com/@kabuto412rock/%E5%B0%87jupyter-notebook%E8%A4%87%E8%A3%BD%E5%88%B0gist%E4%B8%8A-20412d126f07)
 

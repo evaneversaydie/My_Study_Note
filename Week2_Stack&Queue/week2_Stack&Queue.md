@@ -3,15 +3,8 @@ Stack & Queue
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
 - [Stack & Queue示意圖](#stack--queue示意圖)
 - [Stack](#stack)
-    - [Stack必要功能](#stack必要功能)
-    - [設計stack的想法](#設計stack的想法)
-    - [實際程式碼](#實際程式碼)
-- [Queue](#queue)
-    - [Queue必要功能](#queue必要功能)
-    - [設計Queue的想法](#設計queue的想法)
-    - [實際程式碼](#實際程式碼-1)
-- [leetcode刷題](#leetcode刷題)
-- [參考與引用資料](#參考與引用資料)
+                - [Stack必要功能](#stack必要功能)
+                - [設計stack的想法](#設計stack的想法)
 <!-- TOC END -->
 
 
@@ -37,7 +30,13 @@ Stack & Queue
 > 圖片來源: [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.g5ff860a9a8_0_5)
 
 ### 設計stack的想法
-
+1.使用linked list或list方式
+2.使用list:
+* `Push(data):list.append(data)
+* `Pop`:list=list[:-1]
+* `Top`:return(list[-1])
+* `IsEmpty`: list==[]
+* `getSize`: len(list)
 
 
 ### 實際程式碼
@@ -50,7 +49,16 @@ Stack & Queue
 
 
 ### Queue必要功能
+![](https://i.imgur.com/cMuZzPX.png)
+> 圖片來源: [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.g5ff860a9a8_0_5)
 ### 設計Queue的想法
+1.使用linked list或list方式
+2.
+* `Push(data)`:list.append(data)
+* `Pop`:list=list[1:]
+* `Top`:return(list[0])
+* `IsEmpty`: list==[]
+* `getSize`: len(list)
 ### 實際程式碼
 
 
@@ -58,8 +66,8 @@ Stack & Queue
 
 
 # leetcode刷題
- - [ ]  leetcode|155_Min_Stack
- - [ ]  leetcode|232
+ - [X]  [leetcode|155_Min_Stack](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/155.%20Min%20Stack.md)點擊看解題情況
+ - [X]  [leetcode|232 Implement Queue using Stacks](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/232%20Implement%20Queue%20using%20Stacks.md)點擊看解題情況
 
 
 
