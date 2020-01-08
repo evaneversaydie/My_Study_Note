@@ -144,3 +144,6 @@ readme.md通常是該檔案的簡介，可以多看其他人寫readme的方式�
  * 直接在github重新指定檔案路徑，概念等同於新建立一個Leetcode資料夾，資料夾內新增該檔案。
  ![](https://i.imgur.com/TY7GFih.png)
  缺點是需要每個檔案都重新指定路徑，Leetcode會沒有leetcode的歷史。
+* 後來改codesignal成功!!推斷是對大小寫不敏感導致無法改名的問題!!!
+![](https://i.imgur.com/B5RQekC.png)
+![](https://i.imgur.com/22ASt9e.png)
