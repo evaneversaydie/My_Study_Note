@@ -78,6 +78,9 @@ class MyHashSet:
         # param_3 = obj.contains(key)
 ```
 ![](https://github.com/evaneversaydie/My_Study_Note/blob/master/_img/leetcode705res.jpg?raw=true)
+#  🔸流程圖
+[原圖請點這邊](https://github.com/evaneversaydie/My_Study_Note/blob/master/_img/Hash%20explain_flow.jpg?raw=true)
+![img](https://github.com/evaneversaydie/My_Study_Note/blob/master/_img/Hash%20explain_flow.jpg?raw=true)
 
 
 # 參考資料

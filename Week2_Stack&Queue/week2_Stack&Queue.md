@@ -13,7 +13,7 @@ Stack & Queue
 
 # Stack & Queue示意圖
 
-!['1'](1.jpg)
+!['1'](https://github.com/evaneversaydie/My_Study_Note/blob/master/_img/1.jpg?raw=true)
 
 > 圖片來源: [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.g5ff860a9a8_0_5)
 
@@ -26,7 +26,7 @@ Stack & Queue
 * 任何遞迴形式的演算法，都可以用Stack改寫。
 
 ### Stack必要功能
-!['2'](2.jpg)
+!['2'](https://github.com/evaneversaydie/My_Study_Note/blob/master/_img/2.jpg?raw=true)
 > 圖片來源: [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.g5ff860a9a8_0_5)
 
 ### 設計stack的想法
