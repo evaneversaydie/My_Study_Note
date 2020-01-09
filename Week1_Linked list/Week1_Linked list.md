@@ -26,8 +26,6 @@ linked list(單向鏈結)是一種一元樹。
 
 # 練習題目
 ### [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
-### []
-### []
 ### [leetcode_707]('https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/707_Design%20Linked%20List.ipynb')(程式碼)
 
 
