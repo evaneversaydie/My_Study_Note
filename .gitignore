@@ -3,3 +3,5 @@ venv/
 HW2/heap_sort_學習歷程_流程圖_參考資料.ipynb
 .ipynb_checkpoints
 *.drawio
+debug.log
+_config.yml
