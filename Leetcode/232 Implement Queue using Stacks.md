@@ -65,5 +65,6 @@ class MyQueue:
 # param_3 = obj.peek()
 # param_4 = obj.empty()
 ```
+
 # 結果
-[](https://i.imgur.com/BjLibYW.png)
+[圖片](https://i.imgur.com/BjLibYW.png)
