@@ -104,8 +104,8 @@
 * 課程記錄
  * [上課簡報](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
  * 教學錄影
-  * [第三堂:如何自學](https://www.youtube.com/watch?v=qZl35mD4bBU)
-  * [第四堂:Stack & Queue](https://www.youtube.com/watch?v=JSDcWiSvwH4&feature=youtu.be)
+   * [第三堂:如何自學](https://www.youtube.com/watch?v=qZl35mD4bBU)
+   * [第四堂:Stack & Queue](https://www.youtube.com/watch?v=JSDcWiSvwH4&feature=youtu.be)
 
 -[📃](#my_study_note)
 
@@ -115,10 +115,10 @@
 
 
 * 課程記錄
-  * [上課簡報](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
-  * 課程錄影:
-   * [第四堂:Stack & Queue](https://www.youtube.com/watch?v=JSDcWiSvwH4&feature=youtu.be)
-   * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
+   * [上課簡報](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
+   * 課程錄影:
+    * [第四堂:Stack & Queue](https://www.youtube.com/watch?v=JSDcWiSvwH4&feature=youtu.be)
+    * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
 
 
 -[📃](#my_study_note)
@@ -130,8 +130,8 @@
 * [HW_1: Quicks_Sort實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW1)
 
 * 課程記錄:
- * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)
- * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
+  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)
+  * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
 
 
 -[📃](#my_study_note)
@@ -143,8 +143,8 @@
 * [Heap_Sort實作歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/heap_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)
 
 * 課程記錄:
-  * [第六堂:Heap Sort](https://www.youtube.com/watch?v=FS3t3HM5pu8&feature=youtu.be)
-  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
+   ** [第六堂:Heap Sort](https://www.youtube.com/watch?v=FS3t3HM5pu8&feature=youtu.be)
+   ** [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 
@@ -156,8 +156,8 @@
 - [Marage_sort學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)
 
 * 課程記錄:
-  * [第七堂:Merge Sort](https://www.youtube.com/watch?v=vVH3enmxxpw&feature=youtu.be)
-  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)
+   * [第七堂:Merge Sort](https://www.youtube.com/watch?v=vVH3enmxxpw&feature=youtu.be)
+   * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 
@@ -167,8 +167,8 @@
 * [Tree & Binary Tree 筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week8_Binary%20Tree/Readme.md)
 
 * 課程記錄:
-  * [第8堂:Binary Tree](https://www.youtube.com/watch?v=o5bKgseIBhs&feature=youtu.be)
-  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p)
+   * [第8堂:Binary Tree](https://www.youtube.com/watch?v=o5bKgseIBhs&feature=youtu.be)
+   * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 
@@ -181,8 +181,8 @@
 
 
 * 課程記錄:
- * [第9堂:Binary Tree](https://www.youtube.com/watch?v=sMIxvP2r29I&feature=youtu.be)
- * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)
+  * [第9堂:Binary Tree](https://www.youtube.com/watch?v=sMIxvP2r29I&feature=youtu.be)
+  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 -[📃](#my_study_note)
@@ -192,8 +192,8 @@
 
 * 課程記錄
 <br>當週課堂班上與老師討論與回饋課堂學習情況，紅黑樹彈性調整至下週，因此紅黑樹是第時10課。老師提供資料讓同學先預習，所以想將紅黑樹放在Week10。
- * [第10堂:Red Black Tree](https://www.youtube.com/watch?v=qR35AEc84AI&feature=youtu.be)
- * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)
+  * [第10堂:Red Black Tree](https://www.youtube.com/watch?v=qR35AEc84AI&feature=youtu.be)
+  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 
