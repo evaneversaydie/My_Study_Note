@@ -33,12 +33,14 @@
     - [完成](#完成)
     - [思考中](#思考中)
   - [CS50Note](#cs50note)
+    - [觀看影片與投影片:](#觀看影片與投影片)
     - [筆記:當週的合併為一個檔案。](#筆記當週的合併為一個檔案)
 - [其他學習成果](#其他學習成果)
 - [平常額外學習的網站與工具](#平常額外學習的網站與工具)
 - [未來會繼續更新或是想到可以放入的內容](#未來會繼續更新或是想到可以放入的內容)
 - [期末心得](#期末心得)
 <!-- TOC END -->
+
 
 
 
@@ -330,6 +332,23 @@
 
 ## [CS50Note](https://github.com/evaneversaydie/My_Study_Note/tree/master/CS50)
 >  About Cs50:73% of CS50 students have no prior computer science experience! You’re not alone!
+
+### 觀看影片與投影片:
+|Name|Videos Links (YOUTBE)|Slides|觀看|
+|---|---|---|---|
+|Week0-Wednesday|[📽影片](https://www.youtube.com/watch?v=79gAss0K1TI)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/0/w/week0w.pdf)|V|
+|Week0-Friday|[📽影片](http://cdn.cs50.net/2013/fall/lectures/0/f/week0f-360p.mp4):需要到CS50看，Youtube無法看|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/0/f/week0f.pdf)|V|
+|Week3-Monday|[📽影片](https://www.youtube.com/watch?v=xqhcVALTw54)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/3/m/week3m.pdf)|V|
+|Week3-Wednesday|[📽影片](https://www.youtube.com/watch?v=YxgI7ll4Xtg)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/3/w/week3w.pdf)|V|
+|Week4-Monday|[📽影片](https://www.youtube.com/watch?v=8IZ9r5kmS3Y)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/4/m/week4m.pdf)|V|
+|Week4-Wednesday|[📽影片](https://www.youtube.com/watch?v=lw1U7CvmjoU)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/4/w/week4w.pdf)|V|
+|Week5-Monday|[📽影片](http://www.youtube.com/watch?v=IEuvKVjw2oM)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/5/m/week5m.pdf)|V|
+|Week5-Wednesday|[📽影片](http://www.youtube.com/watch?v=atBMLJdSKBo)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/5/w/week5w.pdf)|V|
+|Week7-Monday|[📽影片](http://www.youtube.com/watch?v=RUAsmwYC2mc)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/7/m/week7m.pdf)|V|
+|Week7-Wednesday|[📽影片](http://www.youtube.com/watch?v=QWnZpgZKOoc)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/7/w/week7w.pdf)|V|
+|Week8-Monday|[📽影片](http://www.youtube.com/watch?v=9qvt6MwBKZQ)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/8/m/week8m.pdf)|V|
+|Week8-Wednesday|[📽影片](http://www.youtube.com/watch?v=ihmHDZKOkA8)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/8/w/week8w.pdf)|V|
+
 
 ### 筆記:當週的合併為一個檔案。
 * 以演算法與資料結構為主。
