@@ -8,7 +8,7 @@
     - [第二個:初步的想法](#第二個初步的想法)
 - [參考資料:](#參考資料)
 <!-- TOC END -->
-![QuickSort](QuickSort.jpg)
+![QuickSort](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW1/QuickSort.jpg)
 
 # 流程
 1. 在數列中任選一個元素(通常為最左邊或最右邊的元素)作為pivot。
@@ -45,8 +45,8 @@
 * 想成遞迴就是對small 和big 再做一次，如果len()值=1才停止，每個框框都是一次的Quciksort。
 
 *  示意圖:
-![QuickSort](QuickSort.jpg)
-![QuickSort2](QickSort2.jpg)
+![QuickSort](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW1/QuickSort.jpg)
+![QuickSort2](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW1/QickSort2.jpg尸)
 
 # 參考資料:
 * http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html
