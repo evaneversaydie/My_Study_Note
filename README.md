@@ -33,8 +33,8 @@
     - [完成](#完成)
     - [思考中](#思考中)
   - [CS50Note](#cs50note)
-    - [觀看影片與投影片:](#觀看影片與投影片)
-    - [筆記:當週的合併為一個檔案。](#筆記當週的合併為一個檔案)
+    - [觀看影片與投影片:](#觀看影片與投影片:)
+    - [筆記:當週的合併為一個檔案](#筆記當週的合併為一個檔案)
 - [其他學習成果](#其他學習成果)
 - [平常額外學習的網站與工具](#平常額外學習的網站與工具)
 - [未來會繼續更新或是想到可以放入的內容](#未來會繼續更新或是想到可以放入的內容)
@@ -81,13 +81,13 @@
 
 * 課程記錄
   * 課堂簡報:
-    * [第一堂:為什麼我們學演算法?](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.p)
+   * [第一堂:為什麼我們學演算法?](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.p)
     * [第二堂:Linked_List](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p)
  * 教學錄影
     * 第一堂:為什麼我們學演算法?
-      * [第1段](https://www.youtube.com/watch?time_continue=6&v=LxvSt_jAWM4)
-      * [第2段](https://www.youtube.com/watch?time_continue=1&v=d0btWRtJ7uU)
-      * [第3段](https://www.youtube.com/watch?time_continue=1&v=d0btWRtJ7uU)
+     * [第1段](https://www.youtube.com/watch?time_continue=6&v=LxvSt_jAWM4)
+     * [第2段](https://www.youtube.com/watch?time_continue=1&v=d0btWRtJ7uU)
+     * [第3段](https://www.youtube.com/watch?time_continue=1&v=d0btWRtJ7uU)
     * [第二堂:Linked_List](https://www.youtube.com/watch?v=us0M3nytzoQ&feature=youtu.be)
 
 
@@ -98,14 +98,14 @@
 * [Stack & Queue筆記](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week2_Stack%26Queue/week2_Stack&Queue.md)
   * md檔案用圖:[1](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week2_Stack&Queue/1.jpg?raw=true)、[2](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week2_Stack%26Queue/2.jpg)
 * 刷題練習
- * [leetcode155練習](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/155.%20Min%20Stack.md)
-  * [leetcode232 ](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/232%20Implement%20Queue%20using%20Stacks.md)
+    * [leetcode155練習](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/155.%20Min%20Stack.md)
+    * [leetcode232](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/232%20Implement%20Queue%20using%20Stacks.md)
 
 * 課程記錄
- * [上課簡報](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
- * 教學錄影
-   * [第三堂:如何自學](https://www.youtube.com/watch?v=qZl35mD4bBU)
-   * [第四堂:Stack & Queue](https://www.youtube.com/watch?v=JSDcWiSvwH4&feature=youtu.be)
+    * [上課簡報](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * 教學錄影
+        * [第三堂:如何自學](https://www.youtube.com/watch?v=qZl35mD4bBU)
+        * [第四堂:Stack & Queue](https://www.youtube.com/watch?v=JSDcWiSvwH4&feature=youtu.be)
 
 -[📃](#my_study_note)
 
@@ -115,10 +115,10 @@
 
 
 * 課程記錄
-  * [上課簡報](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
-  * 課程錄影:
-   * [第四堂:Stack & Queue](https://www.youtube.com/watch?v=JSDcWiSvwH4&feature=youtu.be)
-   * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
+    * [上課簡報](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * 課程錄影:
+        * [第四堂:Stack & Queue](https://www.youtube.com/watch?v=JSDcWiSvwH4&feature=youtu.be)
+        * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
 
 
 -[📃](#my_study_note)
@@ -130,8 +130,8 @@
 * [HW_1: Quicks_Sort實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW1)
 
 * 課程記錄:
-  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)
-  * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
 
 
 -[📃](#my_study_note)
@@ -143,8 +143,8 @@
 * [Heap_Sort實作歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/heap_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)
 
 * 課程記錄:
-  * [第六堂:Heap Sort](https://www.youtube.com/watch?v=FS3t3HM5pu8&feature=youtu.be)
-  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第六堂:Heap Sort](https://www.youtube.com/watch?v=FS3t3HM5pu8&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 
@@ -156,8 +156,8 @@
 - [Marage_sort學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)
 
 * 課程記錄:
-  * [第七堂:Merge Sort](https://www.youtube.com/watch?v=vVH3enmxxpw&feature=youtu.be)
-  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第七堂:Merge Sort](https://www.youtube.com/watch?v=vVH3enmxxpw&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 
@@ -167,8 +167,8 @@
 * [Tree & Binary Tree 筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week8_Binary%20Tree/Readme.md)
 
 * 課程記錄:
-  * [第8堂:Binary Tree](https://www.youtube.com/watch?v=o5bKgseIBhs&feature=youtu.be)
-  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第8堂:Binary Tree](https://www.youtube.com/watch?v=o5bKgseIBhs&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 
@@ -176,13 +176,13 @@
 
 ## [Week_9: Binary Search Tree](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week9_BST)
 * [BST 筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week9_BST/Readme.md)
-- [HW3:BST實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/binary_search_tree_06170128.py)
-- [BST學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/My_Study.ipynb)
+* [HW3:BST實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/binary_search_tree_06170128.py)
+* [BST學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/My_Study.ipynb)
 
 
 * 課程記錄:
-  * [第9堂:Binary Tree](https://www.youtube.com/watch?v=sMIxvP2r29I&feature=youtu.be)
-  * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第9堂:Binary Tree](https://www.youtube.com/watch?v=sMIxvP2r29I&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 -[📃](#my_study_note)
@@ -192,8 +192,8 @@
 
 * 課程記錄
 <br>當週課堂班上與老師討論與回饋課堂學習情況，紅黑樹彈性調整至下週，因此紅黑樹是第時10課。老師提供資料讓同學先預習，所以想將紅黑樹放在Week10。
- * [第10堂:Red Black Tree](https://www.youtube.com/watch?v=qR35AEc84AI&feature=youtu.be)
- * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第10堂:Red Black Tree](https://www.youtube.com/watch?v=qR35AEc84AI&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 
@@ -201,17 +201,17 @@
 -[📃](#my_study_note)
 
 ## [Week_11: Hash Table](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week11_Hash%20Table/hash%20table.md)
-- [HW4:Hash table](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW4)
-- [實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW4/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_Hash%20Table%E8%AA%AA%E6%98%8E_Hash%20Function%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E_%E6%B5%81%E7%A8%8B%E5%9C%96.ipynb)
-- leetcode練習
-    - [Hash Table]((https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/705.%20Design%20HashSet.md)
+* [Hash table](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week11_Hash%20Table/hash%20table.md)
+* [HW4:實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW4/)
+* leetcode練習
+    * [Hash Table](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/705.%20Design%20HashSet.md)
 
 
 
 
 * 課程記錄
-     * [第11堂:Hash Table](https://www.youtube.com/watch?v=qR35AEc84AI&feature=youtu.be)
-     * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第11堂:Hash Table](https://www.youtube.com/watch?v=qR35AEc84AI&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 
@@ -222,8 +222,8 @@
 
 
 * 課程記錄
-     * [第12堂:BFS](https://www.youtube.com/watch?v=JFYpAvLq3ZE&feature=youtu.be)
-     * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSYJYXUXvGAeTZ5fknxj_-EPm3zxgy4ITdImrXzy63Y-iZgs8uwVNmOaZlnx9fUNzsbo8kphvMTa0c4/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第12堂:BFS](https://www.youtube.com/watch?v=JFYpAvLq3ZE&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSYJYXUXvGAeTZ5fknxj_-EPm3zxgy4ITdImrXzy63Y-iZgs8uwVNmOaZlnx9fUNzsbo8kphvMTa0c4/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 
 -[📃](#my_study_note)
@@ -231,26 +231,28 @@
 ## [Week_13:Depth-First Search](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week13_DFS)
 * [BFS、DFS筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week13_DFS/readme.md)
 * [HW5:BFS DFS實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW6)
+
 * 課程記錄
-     * [第13堂:DFS](https://www.youtube.com/watch?v=DBnB60IOiw8&feature=youtu.be)
-     * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第13堂:DFS](https://www.youtube.com/watch?v=DBnB60IOiw8&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 -[📃](#my_study_note)
 
 ## [Week_14:Minimum Spanning Tree](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week14_MST)
 * [筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week14_MST/readme.md)
 * 課程記錄
-     * [第14堂:MST](https://www.youtube.com/watch?v=WKxAQJlfMsI&feature=youtu.be)
-     * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第14堂:MST](https://www.youtube.com/watch?v=WKxAQJlfMsI&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 -[📃](#my_study_note)
 
 ## [Week_15:Shortest Path](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week15_Shortest_Path)
 * [筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week15_Shortest_Path/readme.md)
 * [HW6:MST、Shortest Path實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW6)
+
 * 課程記錄
-     * [第15堂:Shortest Path](https://www.youtube.com/watch?v=aDqIz3V-oXc&feature=youtu.be)
-     * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第15堂:Shortest Path](https://www.youtube.com/watch?v=aDqIz3V-oXc&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 -[📃](#my_study_note)
 
@@ -350,7 +352,7 @@
 |Week8-Wednesday|[📽影片](http://www.youtube.com/watch?v=ihmHDZKOkA8)|[💻投影片](http://cdn.cs50.net/2013/fall/lectures/8/w/week8w.pdf)|V|
 
 
-### 筆記:當週的合併為一個檔案。
+### 筆記:當週的合併為一個檔案
 * 以演算法與資料結構為主。
 
 
