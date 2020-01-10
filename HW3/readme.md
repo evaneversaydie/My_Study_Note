@@ -3,10 +3,14 @@ Binary Search Tree 實作
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
 - [HW3](#hw3)
   - [繳交檔案](#繳交檔案)
+  - [小整理](#小整理)
+- [學習總結](#學習總結)
+- [流程圖](#流程圖)
 <!-- TOC END -->
 
 
-##繳交檔案
+
+## 繳交檔案
 * `功能說明`:程式中每個def的功能
 * `binary_search_tree_06170128`:完成的程式碼。
 * `My_Study_Note`:程式碼撰寫歷程。

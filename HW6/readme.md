@@ -1,13 +1,12 @@
 # HW6
 Dijkstra、Kruskal 實作
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
-<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
 - [HW6](#hw6)
 - [整理](#整理)
-- [🔸Dijkstra說明與Kruskal說明](#dijkstra說明與kruskal說明)
-    - [Kruskal](#kruskal)
-    - [Dijkstra](#dijkstra)
-- [🔸Dijkstra與Kruskal流程圖](#dijkstra與kruskal流程圖)
+    - [🔸Dijkstra說明與Kruskal說明](#dijkstra說明與kruskal說明)
+        - [Kruskal](#kruskal)
+        - [Dijkstra](#dijkstra)
+    - [🔸Dijkstra與Kruskal流程圖](#dijkstra與kruskal流程圖)
 - [參考資料](#參考資料)
 <!-- TOC END -->
 
@@ -16,9 +15,9 @@ Dijkstra、Kruskal 實作
 # 整理
 
 
-# 🔸Dijkstra說明與Kruskal說明
+## 🔸Dijkstra說明與Kruskal說明
 
-##  Kruskal
+###  Kruskal
 * 以邊為紀錄主體的演算法。
 * Greedy。
 * 圖需要符合:
@@ -35,7 +34,8 @@ Dijkstra、Kruskal 實作
     * 所有點的父節點是誰:可以止極的自己的父節點，但會在搜尋上影響效能與記憶體，將所有父節點直接記為root，就是「壓縮」。
     <br>(如圖:這張圖計算完的路徑如下，左邊的樹是止記錄自己的爸爸是誰，右邊為壓縮的)
         * ![](https://i.imgur.com/EYIu6F2.png)
-## Dijkstra
+
+### Dijkstra
 > 「最短路徑」不見得是邊最少、點最少的路徑。
 * 尋找最短路徑的演算法之一。
 * lebal setting(一定要全部算完才能有答案)
@@ -55,7 +55,7 @@ Dijkstra、Kruskal 實作
      * 起點A到任一點的最短路徑。(迭代更新)
      * 已經labelled的點。
 
-# 🔸Dijkstra與Kruskal流程圖
+## 🔸Dijkstra與Kruskal流程圖
 * [Dijkstra 原圖請點這裡](https://i.imgur.com/ncA3StM.jpg)
 * [Kruskal 原圖請點這裡](https://i.imgur.com/Jz6FJnC.jpg)
 ![](https://i.imgur.com/aD09ltG.png)

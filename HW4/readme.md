@@ -4,10 +4,14 @@ Hash Table實作
 - [Hw4](#hw4)
 - [小整理](#小整理)
 - [🔸HashTable說明](#hashtable說明)
-                - [這次Hash Table+MD5作業我們要怎麼做?](#這次hash-tablemd5作業我們要怎麼做)
+    - [Hash Table的性質](#hash-table的性質)
+    - [如何用Hash Table實現加密呢?](#如何用hash-table實現加密呢)
+    - [這次Hash Table+MD5作業我們要怎麼做?](#這次hash-tablemd5作業我們要怎麼做)
 - [🔸流程圖](#流程圖)
 - [🔸參考資料](#參考資料)
 <!-- TOC END -->
+
+
 
 # 小整理
 #  🔸HashTable說明
@@ -26,7 +30,7 @@ Hash Table實作
 * 3.更改成更好的Hash function。
 一個良好的hash Function，可以有效率地把每一個key分到不重覆的位置，且碰撞發生的機率極小，在Hash Table中，Hash Function很常用來作為分配資料儲存的位置或適用於搜尋。除了使查詢更有效率。更可以用來做以下的應用:
 * 確保傳遞真實的資訊、錯誤校正 : 因為碰撞機率很小很小，所以可以在發送資料A時將f(A)一起傳送，如果收到的資料B之f(B)!!=f(A)代表資料經過修改或資料有誤。
-##### Hash Table的性質
+## Hash Table的性質
 * 主要操作：新增、刪除、修改值、搜尋已知的鍵
     * 優點:容易搜尋。
     * 缺點:不擅於時間序列(Stack可能更好)、排序困難
@@ -34,13 +38,13 @@ Hash Table實作
 
 
 
-#### 如何用Hash Table實現加密呢?
+## 如何用Hash Table實現加密呢?
 
 >實作的思路大概是：當要把資料放到雜湊表時，先給定一個 key 和存放的 value，並將 key 的每個字元轉換成 ASCII Code 或 Unicode Code 並相加，這個相加的值即是 hash 鍵值，在 table 陣列上對應到存放的 value。
 
 結合數學與密碼學->每個經過更改的資料都會變成唯一且差異很大的值
 
-### 這次Hash Table+MD5作業我們要怎麼做?
+## 這次Hash Table+MD5作業我們要怎麼做?
 <br>「給予一個字串，將他們用下列的形式『分班』。」
 <br>    製造n個桶子=>建Array、用Hash function以utf-8編碼轉成數字並用f(k)/n的餘數來放到bucket裡面。
 * 採用助教的測資

@@ -4,8 +4,17 @@
 - [小整理:](#小整理)
     - [流程圖](#流程圖)
     - [關於Quick_Sort的時間複雜度:Time Complexities](#關於quick_sort的時間複雜度time-complexities)
-- [](#)
+- [簡介歷程](#簡介歷程)
+- [Quick Sort](#quick-sort)
+    - [第一版:](#第一版)
+        - [心得:](#心得)
+        - [嘗試但錯誤的程式碼:](#嘗試但錯誤的程式碼)
+        - [本來的想法：](#本來的想法)
+        - [上課後和助教討論:](#上課後和助教討論)
+        - [第二個:初步的想法](#第二個初步的想法)
+- [參考資料](#參考資料)
 <!-- TOC END -->
+
 
 
 本次作業為QuickSort 實作。
@@ -14,7 +23,7 @@
 <br>其他為留圖原始製作檔與流程圖片
 
 # 小整理:
-##流程圖
+## 流程圖
 ![QuickSort](QuickSort.jpg)
 ![QuickSort2](QickSort2.jpg)
 ![QuickSort](Quicksort_d.jpg)
@@ -25,6 +34,7 @@
 * 最壞的情形: O(N^2)
     * 指定到的pivot都為該次排序的最大或最小值。
     * 若都是已經排序好的資料(像是一元樹)。
+
 # 簡介歷程
 # Quick Sort
 
@@ -47,12 +57,12 @@ https://ithelp.ithome.com.tw/articles/10202330?sc=iThelpR
 *  流程圖為參考圖中的網址，改成自己的測資繪製而成。
 
 
-# 心得:
+### 心得:
 網路上的資料多為C語言居多，多半使用`swap()`函數來實現將pivot與比較的置換。
 在python裡的方式想到的是用`alist[left],alist[l]=alist[l],alist[left]`的方式交換位置。(應該是 `tuple`)
 遞迴多半是在function裡呼叫自己，老師上課時提供的程式碼是在第一次分類(> or < pivot)後，更改Quicksort檢驗排序的範圍完成遞迴。
 
-## 嘗試但錯誤的程式碼:
+### 嘗試但錯誤的程式碼:
 ### 本來的想法：
 * 因為對於遞迴的概念不熟，所以著重想的是如何重複檢查「和pivot比大小和分類『>pivot』與『<pivot』」的動作?這個動作必需要重複的條件是什麼?
        * 在自己的概念中必須使用while迴圈，for迴圈需要參數的設置可能需要多個以上是自己比較不受的部分(需要再加強)，因此先用while迴圈。並使用老師上課提供的程式碼的遞迴方式。
@@ -74,6 +84,7 @@ https://ithelp.ithome.com.tw/articles/10202330?sc=iThelpR
     所以先把小於指定值的pivot存在一個list，反之亦然。用while包起來，最後把所有list加起來。
     * 不能只用samll或big。
     * 想成遞迴就是對small 和big 再做一次，如果len()值=1才停止，每個框框都是一次的Quciksort。
+
 # 參考資料
 > 查詢的資料:
 http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html

@@ -3,18 +3,18 @@ BFS DFS 實作
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
 - [Hw5](#hw5)
 - [小整理](#小整理)
-- [🔸BFS說明、DFS說明](#bfs說明dfs說明)
+    - [🔸BFS說明、DFS說明](#bfs說明dfs說明)
         - [圖的定義:](#圖的定義)
         - [為什麼要有走訪?](#為什麼要有走訪)
         - [BFS&BFS](#bfsbfs)
-- [🔸BFS、DFS流程圖、原理比較](#bfsdfs流程圖原理比較)
-    - [BFS、DFS流程圖](#bfsdfs流程圖)
+    - [🔸BFS、DFS流程圖、原理比較](#bfsdfs流程圖原理比較)
+        - [BFS、DFS流程圖](#bfsdfs流程圖)
     - [比較](#比較)
 - [🔸參考資料](#參考資料)
 <!-- TOC END -->
-#小整理
+# 小整理
 
-# 🔸BFS說明、DFS說明
+## 🔸BFS說明、DFS說明
 深度優先搜尋(DFS)與廣度優先搜尋(BFS)這兩種搜尋法，作用在於圖的「走訪」(traversal)。
 > 走訪是從圖的某一個點開始拜訪其餘的點，且每一個點都址拜訪一次的過程。
 
@@ -56,10 +56,12 @@ BFS時，我們將起點放進去Queue，拜訪了起點(把起點刪掉放到�
 <br>
 DFS時，我們將起點放進去Stack，拜訪了起點(把起點刪掉)，再把臨邊表的點放到Stack中，先拜訪最後看到的點(依照林邊表順序)......直到沒有點可以拜訪。加入臨邊表的數據時，要檢查有沒有拜訪過。
 
-# 🔸BFS、DFS流程圖、原理比較
-## BFS、DFS流程圖
+## 🔸BFS、DFS流程圖、原理比較
+
+### BFS、DFS流程圖
 [原圖請點這裡](https://i.imgur.com/L7SOBsx.jpg)
 ![](https://i.imgur.com/L7SOBsx.jpg)
+
 ## 比較
 複雜度會依據有沒有適用遞迴、是使用Adjency List還是矩陣有所差異。
 以下為使用Adjency list 的複雜度:
@@ -74,6 +76,7 @@ DFS時，我們將起點放進去Stack，拜訪了起點(把起點刪掉)，再�
 |最差時間複雜度	|O(v+e)|O(v+e)||
 |實作|Stack|Queue||
 |應用|路徑的邊的數量(轉機問題)|走迷宮、拓樸排序、路徑的權重和|
+
 # 🔸參考資料
 * PowerPoints in class:
     * [PowerPoints in class](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.g7aa022d8bc_2_5)
