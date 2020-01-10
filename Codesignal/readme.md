@@ -1,6 +1,6 @@
-# Codesignal
+# 📔Codesignal
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
-- [Codesignal](#codesignal)
+- [📔Codesignal](#codesignal)
 - [About this Note:](#about-this-note)
 - [Arcade:結果與心得](#arcade結果與心得)
     - [01](#01)
@@ -25,9 +25,10 @@
 這裡是我用`python3`解[codesignal](https://app.codesignal.com/)的練習程式碼與學習歷程。
 
 #### 練習題目
-所有`筆記`與`程式碼`在:[]()
+所有`筆記`與`程式碼`在[Readme](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/readme.md)中:
+
 |章節|題號|
-|--|--|--|
+|--|--|
 |Arcade|01|
 |Arcade|02|
 |Arcade|03|
@@ -42,16 +43,21 @@
 |Python|08|
 
 #### 資料夾中的檔案們
-* 一開始寫Arcade01到04，都有另外打在`.ipnb`並打包成`py檔`。已經將他們與之後寫的題目直接紀錄在此筆記中，但仍保留學習的軌跡，留下以下檔案。
-|題號|ipnb|py|
+* 一開始寫Arcade01到04，都有另外打在`.ipnb`並打包成`py檔`。已經將他們與之後寫的題目直接紀錄在此筆記中，但仍保留學習的軌跡，留下以下檔案。可以點擊來找到它們😀:
+|題號|ipnb|程式碼py|
 |--|--|--|
 |01|[ipnb](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/Arcade_01.ipynb)|[py](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/Arcade_01.py)|
 |02|[ipnb](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/Arcade_02.ipynb)|[py](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/Arcade_02.py)|
 |03|[ipnb](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/Arcade_03.ipynb)|[py](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/Arcade_03.py)|
-|04|[ipnb](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/Arcade_04.ipynb)||
+|04|[ipnb](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/Arcade_04.ipynb)|code直接寫在筆記囉|
 
 
 # Arcade:結果與心得
+- [01](#01)
+- [02](#02)
+- [03](#03)
+- [04](#04)
+- [05](#05)
 
 ## 01
  Write a function that returns the sum of two numbers.
@@ -67,7 +73,7 @@ the output should be add(param1, param2) = 3.
 * 心得:return 之功能:
 return 有【退出函式】的功能，執行到return(後面沒有回傳值再python 是允許的，默認傳回None)
 
-[📔](#Codesignal)
+* [返回📔-Arcade:結果與心得](#arcade結果與心得)
 
 ## 02
 ```Python
@@ -82,7 +88,7 @@ def centuryFromYear(year):
  * % :餘數
  * //:整除的商(一定是int)
 
-[📔](#Codesignal)
+* [返回📔-Arcade:結果與心得](#arcade結果與心得)
 
 ## 03
 ```Python
@@ -95,7 +101,9 @@ def checkPalindrome(inputString):
 2.內建reserve()只適用於list。
 palindrome:可以回文的字句。
 
-[📔](#Codesignal)
+
+* [返回📔-Arcade:結果與心得](#arcade結果與心得)
+
 
 ## 04
 
@@ -109,18 +117,34 @@ palindrome:可以回文的字句。
 
 ```
 
+* [返回📔-Arcade:結果與心得](#arcade結果與心得)
+
 
 ## 05
 - [ ] 可以使用sort看看。
 
-# Code_Signal:Python刷題紀錄與筆記
 
+* [返回📔-Arcade:結果與心得](#arcade結果與心得)
+
+
+# Code_Signal:Python刷題紀錄與筆記
+- [1.](#1)
+- [2.](#2)
+- [3.](#3)
+- [4.](#4)
+- [5.](#5)
+- [6](#6)
+- [7](#7)
+- [8](#8)
 ##1.
 [題目網址](https://github.com/evaneversaydie/My_Study_Note/blob/master/_img/CodeSignalpython01.jpg)
 > ![https://github.com/evaneversaydie/My_Study_Note/blob/master/_img/CodeSignalpython01.jpg?raw=true)
 來源:[題目網址](https://github.com/evaneversaydie/My_Study_Note/blob/master/_img/CodeSignalpython01.jpg)
 
 list中，存在元素。答案[True,False]
+
+* [返回📔-Code_Signal:Python刷題紀錄與筆記](#code_signalpython刷題紀錄與筆記)
+
 
 ## 2.
 [題目網址](https://app.codesignal.com/arcade/python-arcade/meet-python/NWtSkp4Gd8ZeKc5R5/comments)
@@ -130,12 +154,17 @@ https://github.com/evaneversaydie/My_Study_Note/blob/master/_img/CodeSignalpytho
 
 這題爭議取決於對校譽的定義，如果是時間==>2;程式碼長短=>1。
 
+* [返回📔-Code_Signal:Python刷題紀錄與筆記](#code_signalpython刷題紀錄與筆記)
+
 ## 3.
 [題目網址](https://app.codesignal.com/arcade/python-arcade/meet-python/2iE97RD5zdYLek4cy)
 ![](https://github.com/evaneversaydie/My_Study_Note/blob/master/_img/CodeSignalpython03.jpg?raw=true)
 > [題目網址](https://app.codesignal.com/arcade/python-arcade/meet-python/2iE97RD5zdYLek4cy)
 
 java:/中的整數除法僅返回整數，而//會到下一個“最小”整數15 / -4 = -3，15 //- 4 = -4
+
+
+* [返回📔-Code_Signal:Python刷題紀錄與筆記](#code_signalpython刷題紀錄與筆記)
 
 ## 4.
 [https://app.codesignal.com/arcade/python-arcade/meet-python/7bGkfoFf65CiqbX3s/solutions]()
@@ -144,6 +173,7 @@ java:/中的整數除法僅返回整數，而//會到下一個“最小”整數
 def countBits(n):
     return n.bit_length()
 ```
+* [返回📔-Code_Signal:Python刷題紀錄與筆記](#code_signalpython刷題紀錄與筆記)
 
 ## 5.
 [題目網址](https://app.codesignal.com/arcade/python-arcade/meet-python/mygD2J9yDbRmtKW8T/)
@@ -155,6 +185,7 @@ def modulus(n):
         return -1
 ```
 * isinstance(n, int)
+* [返回📔-Code_Signal:Python刷題紀錄與筆記](#code_signalpython刷題紀錄與筆記)
 
 ## 6
 [題目網址](https://app.codesignal.com/arcade/python-arcade/meet-python/MEgcxkQyYqFDdySnH)
@@ -172,6 +203,7 @@ def simpleSort(arr):
             j += 1
     return arr
 ```
+* [返回📔-Code_Signal:Python刷題紀錄與筆記](#code_signalpython刷題紀錄與筆記)
 
 ## 7
 [題目網址](https://app.codesignal.com/arcade/python-arcade/meet-python/u7FW6fpp8Mqxe6sjt)!!
@@ -179,6 +211,8 @@ def simpleSort(arr):
 def baseConversion(n, x):
     return hex(int(str(n),x))[2:]
 ```
+* [返回📔-Code_Signal:Python刷題紀錄與筆記](#code_signalpython刷題紀錄與筆記)
+
 ## 8
 [題目網址](https://app.codesignal.com/arcade/python-arcade/meet-python/pLsMG462nzEh3axHN/solutions)
 ```Py
@@ -193,3 +227,4 @@ def mexFunction(s, upperBound):
 
     return found
 ```
+* [返回📔-Code_Signal:Python刷題紀錄與筆記](#code_signalpython刷題紀錄與筆記)
