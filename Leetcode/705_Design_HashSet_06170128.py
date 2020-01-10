@@ -1,8 +1,5 @@
 class MyHashSet:
     def __init__(self):
-        """
-        Initialize your data structure here.
-        """
         self.bucket=[None]*100
 
     def add(self, key: int) -> None:
