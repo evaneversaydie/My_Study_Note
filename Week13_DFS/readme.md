@@ -1,6 +1,6 @@
-# ㄋ🔸BFS說明、DFS說明
+# 🔸BFS說明、DFS說明
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
-- [ㄋ🔸BFS說明、DFS說明](#ㄋbfs說明dfs說明)
+- [🔸BFS說明、DFS說明](#ㄋbfs說明dfs說明)
 - [🔸走訪](#走訪)
         - [圖的定義:](#圖的定義)
         - [為什麼要有走訪?](#為什麼要有走訪)
