@@ -295,6 +295,8 @@
 
 #### 資料夾中的檔案們
 * 一開始寫Arcade01到04，都有另外打在`.ipnb`並打包成`py檔`。已經將他們與之後寫的題目直接紀錄在此筆記中，但仍保留學習的軌跡，留下以下檔案。可以點擊來找到它們😀: <br>
+
+
 |題號|ipnb|程式碼py|
 |--|--|--|
 |01|[ipnb](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/Arcade_01.ipynb)|[py](https://github.com/evaneversaydie/My_Study_Note/blob/master/Codesignal/Arcade_01.py)|
