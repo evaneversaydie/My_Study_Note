@@ -333,6 +333,8 @@
 
 ### 筆記:當週的合併為一個檔案。
 * 以演算法與資料結構為主。
+
+
 |週次|簡介|我的筆記|
 |---|---|---|
 |W0|Binary、ASCII、Algorithms、Scratch|[📒筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/CS50/W0_W%2BF.md)|
