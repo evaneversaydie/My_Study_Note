@@ -30,6 +30,8 @@
     - [About this Note:](#about-this-note)
     - [練習題目](#練習題目)
   - [Leetcode](#leetcode)
+    - [完成](#完成)
+    - [思考中](#思考中)
   - [CS50Note](#cs50note)
     - [筆記:當週的合併為一個檔案。](#筆記當週的合併為一個檔案)
 - [其他學習成果](#其他學習成果)
@@ -59,14 +61,14 @@
 * 註:所有截圖或自製圖片都存在這個[`資料夾`](https://github.com/evaneversaydie/My_Study_Note/tree/master/_img)與[`這個Hackmd`](https://hackmd.io/Y8-AJ6vrSvi9tecRXY3igA?view)中，筆記中取用網路的會註明出處。
 
 ### ALL HOMEWORK
-|INDEX|DESCRIPRTION|檔案|繳交|
-|:----:|------------|--|--|
+|INDEX|DESCRIPRTION|檔案|繳交|細項|
+|:----:|------------|--|--|-|
 |1|[Quick_Sort實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW1)||🙌|
-|2|[Marage_sort && Heap_Sort](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW2)||🙌|
-|3|[Search Binary Tree](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW3)||🙌|
-|4|[Hash Table +MD5](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW4)||🙌|
-|5|[BFS DFS](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW5)||🙌|
-|6|[Dijkstra Kruskal](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW6)||🙌|
+|2|[Marage_sort && Heap_Sort](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW2)|[code]|🙌|
+|3|[Search Binary Tree](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW3)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/binary_search_tree_06170128.py)/[學習歷程(含流程圖)](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/My_Study.ipynb)/[功能說明](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)|🙌|
+|4|[Hash Table +MD5](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW4)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW4/hash_table_06170128.py)/[學習歷程(含流程圖)](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW4/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_Hash%20Table%E8%AA%AA%E6%98%8E_Hash%20Function%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E_%E6%B5%81%E7%A8%8B%E5%9C%96.ipynb)|🙌|
+|5|[BFS DFS](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW5)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW5/BFS_06170128.py)/[學習歷程(含流程圖)](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW5/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_BFS_DFS%E8%AA%AA%E6%98%8E%E8%88%87%E6%AF%94%E8%BC%83.ipynb)|🙌|
+|6|[Dijkstra Kruskal](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW6)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW6/Dijkstra_06170128.py)/[學習歷程(含流程圖)](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW6/Dijkstra%E3%80%81Kruskal%20%E5%AF%A6%E4%BD%9C%E6%AD%B7%E7%A8%8B%E3%80%81%E8%AA%AA%E6%98%8E%E8%88%87%E6%B5%81%E7%A8%8B%E5%9C%96.ipynb)|🙌|
 
 
 
@@ -302,6 +304,25 @@
 
 ## [Leetcode](https://github.com/evaneversaydie/My_Study_Note/tree/master/Leetcode)
 
+點擊筆記可以觀看各題的程式碼、運作效率以及撰寫心得總結
+### 完成
+|題號|筆記(含運行結果)|py|難度|
+|-|-|-|-|
+|[21](https://leetcode.com/problems/merge-two-sorted-lists)|[Merge Two Sorted Lists](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/21.%20Merge%20Two%20Sorted%20Lists.md)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/21_Merge_Two_Sorted_Lists_06170128.py)|Easy|
+|[155](https://leetcode.com/problems/min-stack)|[Min Stack](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/155.%20Min%20Stack.md)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/155_Min_Stack_06170128.py)|Easy|
+|[232](https://leetcode.com/problems/implement-queue-using-stacks)|[Implement Queue using Stacks](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/232%20Implement%20Queue%20using%20Stacks.md)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/232_Implement_Queue_using_Stacks_06170128.py)|Easy|
+|[705](https://leetcode.com/problems/design-hashset)|[Design HashSet](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/705.%20Design%20HashSet.md)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/705_Design_HashSet_06170128.py)|Easy|
+|[876](https://leetcode.com/problems/middle-of-the-linked-list)| [Middle of the Linked List](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/876.%20Middle%20of%20the%20Linked%20List.md)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/876_Middle_of_the_Linked_List_06170128.py)|Easy|
+|[1108](https://leetcode.com/problems/defanging-an-ip-address)| [Defanging an IP Address](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/1108.%20Defanging%20an%20IP%20Address.md)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/1108_Defanging_an_IP_Address_06170128.py)|Easy|
+|[1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Find Numbers with Even Number of Digits](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.md)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/1295_Find_Numbers_with_Even_Number_of_Digits_06170128.py)|Easy|
+|[34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/)|[Find First and Last Position of Element in Sorted Array](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/34_Find_First_and_Last_Position_of_Element%20in_Sorted_Array_06170128.py)|Medium|
+|[447](https://leetcode.com/problems/number-of-boomerangs/submissions/)|[Number of Boomerangs](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/447.%20Number%20of%20Boomerangs.md)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/447_Number_of_Boomerangs_06170128.py)|Easy|
+|[345](https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/)|[Reverse Vowels of a String](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/345_Reverse_Vowels_of_a_String.md)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/345_Reverse_Vowels_of_a_String_06170128.py)|Easy|
+
+### 思考中
+思考中的題目。
+* 待解中-[905_Sort Array By Parity `.ipnb檔](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/905_Sort%20Array%20By%20Parity.ipynb)
+* 待解中-[977_Squares of a Sorted Array`.ipnb檔`](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/977_Squares%20of%20a%20Sorted%20Array.ipynb):想試試看qiucksort
 
 ## [CS50Note](https://github.com/evaneversaydie/My_Study_Note/tree/master/CS50)
 >  About Cs50:73% of CS50 students have no prior computer science experience! You’re not alone!
