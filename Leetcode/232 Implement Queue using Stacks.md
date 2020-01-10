@@ -67,4 +67,4 @@ class MyQueue:
 ```
 
 # 結果
-[圖片](https://i.imgur.com/BjLibYW.png)
+![圖片](https://i.imgur.com/BjLibYW.png)
