@@ -56,12 +56,12 @@
 
 |週次|簡介|我的筆記|
 |---|---|---|
-|W0|Binary、ASCII、Algorithms、Scratch|[📒筆記]()|
-|W3| Searching、Sorting、Bubble sort、Selection sort. Insertion sort、O和Ω|[📒筆記]()|
-|W4|Merge sort|[📒筆記]()|
-|W5|Stack、Heap、Stack overflow、Pre-processing. Compiling、Assembling、Linking.|[📒筆記]()|
-|W7|Linked lists、Hash tables、Tries|[📒筆記]()|
-|W8|Stacks、Queues、Trees、BST|[📒筆記]()|
+|W0|Binary、ASCII、Algorithms、Scratch|[📒筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/CS50/W0_W%2BF.md)|
+|W3| Searching、Sorting、Bubble sort、Selection sort. Insertion sort、O和Ω|[📒筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/CS50/W3_W.md)|
+|W4|Merge sort|[📒筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/CS50/W4_M.md)|
+|W5|Stack、Heap、Stack overflow、Pre-processing. Compiling、Assembling、Linking.|[📒筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/CS50/W5-M%2BW.md)|
+|W7|Linked lists、Hash tables、Tries|[📒筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/CS50/W7_M%2BW.md)|
+|W8|Stacks、Queues、Trees、BST|[📒筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/CS50/W8_M%2BW.md)|
 
 
 # Reference
