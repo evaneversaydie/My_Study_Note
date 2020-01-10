@@ -130,8 +130,8 @@
 * [HW_1: Quicks_Sort實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW1)
 
 * 課程記錄:
-      * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)
-      * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
 
 
 -[📃](#my_study_note)
@@ -241,8 +241,8 @@
 ## [Week_14:Minimum Spanning Tree](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week14_MST)
 * [筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week14_MST/readme.md)
 * 課程記錄
- * [第14堂:MST](https://www.youtube.com/watch?v=WKxAQJlfMsI&feature=youtu.be)
- * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    * [第14堂:MST](https://www.youtube.com/watch?v=WKxAQJlfMsI&feature=youtu.be)
+    * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 -[📃](#my_study_note)
 
