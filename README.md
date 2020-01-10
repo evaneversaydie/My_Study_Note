@@ -61,8 +61,8 @@
 * 註:所有截圖或自製圖片都存在這個[`資料夾`](https://github.com/evaneversaydie/My_Study_Note/tree/master/_img)與[`這個Hackmd`](https://hackmd.io/Y8-AJ6vrSvi9tecRXY3igA?view)中，筆記中取用網路的會註明出處。
 
 ### ALL HOMEWORK
-|INDEX|DESCRIPRTION|檔案|繳交|細項|
-|:----:|------------|--|--|-|
+|INDEX|DESCRIPRTION|檔案|繳交|
+|:----:|------------|--|--|
 |1|[Quick_Sort實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW1)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW1/Quicksort_06170128.py)/[學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW1/Quick_Sort%20-%20%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E5%8A%A9%E6%95%99%E8%AB%8B%E7%9C%8B.ipynb)/[流程圖1](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW1/QickSort2.jpg?raw=true)/[流程圖2](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW1/QuickSort.jpg?raw=true)/[遞迴概念圖](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW1/QickSort1.jpg?raw=true)/[程式碼workflow](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW1/Quicksort_d.jpg?raw=true)|🙌|
 |2|[Marage_sort && Heap_Sort](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW2)|merge_sort:[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_06170128.py)/[學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.ipynb)、[.md版](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)/[流程圖](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/MergeSort.jpg)<br>HeapSort:[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/merge_sort_06170128.py)/[學習歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/heap_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.ipynb)、[.md版](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/heap_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)/[流程圖](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/HeapSort.jpg)<br>[比較](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/HeapSort%20and%20MergeSort%20%E6%AF%94%E8%BC%83.md)|🙌|
 |3|[Search Binary Tree](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW3)|[code](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/binary_search_tree_06170128.py)/[學習歷程(含流程圖)](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/My_Study.ipynb)/[功能說明](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW3/%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)|🙌|
@@ -93,11 +93,11 @@
 
 
 ## [Week_2: Stack & Queue](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week2_Stack%26Queue)
-* [Stack & Queue筆記]('https://github.com/evaneversaydie/My_Study_Note/tree/master/Week2_Stack%26Queue/week2_Stack&Queue.md')
+* [Stack & Queue筆記](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week2_Stack%26Queue/week2_Stack&Queue.md)
   * md檔案用圖:[1](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week2_Stack&Queue/1.jpg?raw=true)、[2](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week2_Stack%26Queue/2.jpg)
 * 刷題練習
- - [leetcode155練習](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/155.%20Min%20Stack.md)
-  - [leetcode232 ](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/232%20Implement%20Queue%20using%20Stacks.md)
+ * [leetcode155練習](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/155.%20Min%20Stack.md)
+  * [leetcode232 ](https://github.com/evaneversaydie/My_Study_Note/blob/master/leetcode/232%20Implement%20Queue%20using%20Stacks.md)
 
 * 課程記錄
  * [上課簡報](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -129,16 +129,16 @@
 
 * 課程記錄:
   * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)
+  * [第五堂:Insertion Sort & Quick Sort](https://www.youtube.com/watch?v=oBXZmAwNFzY&feature=youtu.be)
 
 
 -[📃](#my_study_note)
-- [X] two pointer
 
 ## [Week_6: heap_sort](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week5_HeapSort)
-- [Heap Sort 筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week5_HeapSort/Week5_HeapSort.md)
-- [複習 物件導向](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week5_HeapSort/%E8%A4%87%E7%BF%92%E7%89%A9%E4%BB%B6.md)
-- [HW_2:Heap_Sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/heap_sort_06170128.py)
-- [Heap_Sort實作歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/heap_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)
+* [Heap Sort 筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week5_HeapSort/Week5_HeapSort.md)
+* [複習 物件導向](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week5_HeapSort/%E8%A4%87%E7%BF%92%E7%89%A9%E4%BB%B6.md)
+* [HW_2:Heap_Sort實作](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2)
+* [Heap_Sort實作歷程](https://github.com/evaneversaydie/My_Study_Note/blob/master/HW2/heap_sort_%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B_%E6%B5%81%E7%A8%8B%E5%9C%96_%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99.md)
 
 * 課程記錄:
   * [第六堂:Heap Sort](https://www.youtube.com/watch?v=FS3t3HM5pu8&feature=youtu.be)
@@ -228,6 +228,7 @@
 
 ## [Week_13:Depth-First Search](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week13_DFS)
 * [BFS、DFS筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week13_DFS/readme.md)
+* [HW5:BFS DFS實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW6)
 * 課程記錄
      * [第13堂:DFS](https://www.youtube.com/watch?v=DBnB60IOiw8&feature=youtu.be)
      * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -244,6 +245,7 @@
 
 ## [Week_15:Shortest Path](https://github.com/evaneversaydie/My_Study_Note/tree/master/Week15_Shortest_Path)
 * [筆記](https://github.com/evaneversaydie/My_Study_Note/blob/master/Week15_Shortest_Path/readme.md)
+* [HW6:MST、Shortest Path實作](https://github.com/evaneversaydie/My_Study_Note/tree/master/HW6)
 * 課程記錄
      * [第15堂:Shortest Path](https://www.youtube.com/watch?v=aDqIz3V-oXc&feature=youtu.be)
      * [課堂簡報](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -321,7 +323,7 @@
 
 ### 思考中
 思考中的題目。
-* 待解中-[905_Sort Array By Parity `.ipnb檔](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/905_Sort%20Array%20By%20Parity.ipynb)
+* 待解中-[905_Sort Array By Parity `.ipnb檔`](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/905_Sort%20Array%20By%20Parity.ipynb)
 * 待解中-[977_Squares of a Sorted Array`.ipnb檔`](https://github.com/evaneversaydie/My_Study_Note/blob/master/Leetcode/977_Squares%20of%20a%20Sorted%20Array.ipynb):想試試看qiucksort
 
 ## [CS50Note](https://github.com/evaneversaydie/My_Study_Note/tree/master/CS50)
